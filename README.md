@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-![Horiseon Web Page](image.png)
+![Website Screenshot](Develop/assets/images/Website-Screenshot.png)
 
 ## Links
 Deployed Webpage: 
