@@ -33,8 +33,8 @@ THEN I find a concise, descriptive title
 ![Website Screenshot](Develop/assets/images/Website-Screenshot.png)
 
 ## Links
-Deployed Webpage: 
-GitHub Repo Page: 
+Deployed Webpage: https://evanilla57.github.io/cherry/
+GitHub Repo Page: https://github.com/Evanilla57/cherry
 
 ## Credits
 
